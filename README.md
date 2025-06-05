@@ -1,3 +1,4 @@
+
 # YOLOv8 Phát Hiện Đối Tượng với DeepSORT Tracking (ID + Trails)
 
 ## 🚀 Liên kết Google Colab (Giải pháp chỉ với một cú nhấp chuột)
@@ -82,10 +83,12 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 
 ![Ví dụ Phát Hiện Xe 2](./figure/figure3.png)
 
-## 🎥 Xem Video Hướng Dẫn Chi Tiết
+## 📸 Hình Ảnh Kết Quả
 
-Để có hướng dẫn chi tiết từng bước, hãy xem video tutorial trên **YouTube**.
+### Ảnh Kết Quả 1
 
-- **[Xem Hướng Dẫn Chi Tiết](https://www.youtube.com/watch?v=9jRRZ-WL698)**
+![Ảnh Kết Quả 1](file:///C:/Users/ngotr/Downloads/YOLOv8-DeepSORT-Object-Tracking-main/anhketqua.jpg)
 
-[![Xem Video Hướng Dẫn Chi Tiết](https://img.youtube.com/vi/9jRRZ-WL698/0.jpg)](https://www.youtube.com/watch?v=9jRRZ-WL698)
+### Ảnh Kết Quả 2
+
+![Ảnh Kết Quả 2](file:///C:/Users/ngotr/Downloads/YOLOv8-DeepSORT-Object-Tracking-main/anhketqua1.jpg)
