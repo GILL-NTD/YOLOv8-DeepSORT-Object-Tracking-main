@@ -10,7 +10,7 @@ Bạn có thể chạy YOLOv8 phát hiện và theo dõi đối tượng trong *
 
 ## 🛠️ YOLOv8 Phân đoạn với DeepSORT Object Tracking
 
-- **[Liên kết GitHub Repository](https://github.com/MuhammadMoinFaisal/YOLOv8_Segmentation_DeepSORT_Object_Tracking.git)**
+- **[Liên kết GitHub Repository](https://github.com/GILL-NTD/YOLOv8_Segmentation_DeepSORT_Object_Tracking.git)**
 
 ## 📋 Các Bước Để Chạy Mã
 
@@ -19,7 +19,7 @@ Làm theo các bước dưới đây để sao chép kho lưu trữ, cài đặt
 ### 1. Sao chép Kho Lưu Trữ
 
 ```bash
-git clone https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.git
+git clone https://github.com/GILL-NTD/YOLOv8-DeepSORT-Object-Tracking.git
 ```
 
 ### 2. Chuyển đến Thư Mục Đã Sao Chép
